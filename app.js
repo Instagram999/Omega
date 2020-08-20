@@ -2,7 +2,6 @@
 
 
 ///Edit Under This only
-
 const firebaseConfig = {
   apiKey: "AIzaSyBGe_KBrjoI-108fSVUy7qwCP7U-zPfeo4",
   authDomain: "instagram-a9aba.firebaseapp.com",
